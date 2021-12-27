@@ -10,4 +10,4 @@ A small Vanilla JS project to get better at JavaScript DOM manipulation.
 
 ## Live
 
-You can check the project here. [▶ Color Flipper]().
+You can check the project here. [▶ Color Flipper](https://serhatbek.github.io/01-color-flipper/).
